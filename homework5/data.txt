@@ -1,0 +1,1 @@
+If the body of a def contains yield, the function automatically becomes a Python generator function. 
